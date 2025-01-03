@@ -1,1 +1,2 @@
-print(type(num_char))
+
+print(6 / 3)
